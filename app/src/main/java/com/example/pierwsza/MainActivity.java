@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.constraintlayout2);
        // setContentView(R.layout.tablelayout);
         //setContentView(R.layout.gridlayout);
-        setContentView(R.layout.multilayout);
+        //setContentView(R.layout.multilayout);
+        setContentView(R.layout.scroll);
     }
 }
